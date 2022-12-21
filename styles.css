@@ -1,0 +1,38 @@
+body{
+    background-color: #1C315E;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    text-align: center;
+    margin-top: 5%;
+    font-size: 3rem;
+}
+
+h1{
+    padding: 0 7%;
+    margin: 0;
+}
+
+div{
+    border: solid black;
+    margin: 0 35%;
+    background-color: #E6E2C3;
+    color: #1C315E;
+}
+
+h2{
+    font-size: 6rem;
+}
+
+h6{
+    margin: 2% 0;
+}
+
+footer{
+    margin-top: 10%;
+    padding-bottom: 5%;
+}
+
+p{
+    color: white;
+    font-size: 0.7rem;
+}
